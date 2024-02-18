@@ -1,0 +1,5 @@
+environnementVirtuel\Scripts\activate
+
+cd/environnementVirtuel
+
+python manage.py runserver
